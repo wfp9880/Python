@@ -1,0 +1,18 @@
+#数据类型
+num1=1
+print(type(num1))
+num2=1.1
+print(type(num2))
+b=True
+print(type(b))
+c=[10,20,30,40,50]
+print(type(c))
+d=(10,20,30,40,50)
+print(type(d))
+e={10,20,30,40,50}
+print(type(e))
+f={'name':'Tom','age':18}
+print(type(f))
+"""
+    变量名=赋值
+"""
